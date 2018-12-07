@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">н.Заметки</string>
+    <string name="ok">продолжить</string>
+    <string name="cancel">отмена</string>
+
+    <string name="title_root">темы</string>
+    <string name="title_newfolder">новая тема</string>
+    <string name="title_delete">удалить</string>
+    <string name="title_rename">переименовать</string>
+    <string name="title_error">ошибка</string>
+
+    <string name="dialog_hint_newfolder">название темы</string>
+    <string name="dialog_confirmation_delete">ВНИМАНИЕ\nпосле удаления, восстановление будет невозможно.\n\nудалить тему со всем содержимым?</string>
+    <string name="dialog_message_emptyinput">Операция отменена: Вы ничего не ввели</string>
+    <string name="dialog_message_wronginput">Операция отменена: название не должно содержать символ "/"</string>
+
+    <string name="result_duplicatethemename">Операция отменена: Уже есть такая тема</string>
+    <string name="result_themedeleted">Тема удалена</string>
+    <string name="result_themerenamed">Тема переименована</string>
+    <string name="result_error">Операция отменена: произошла ошибка</string>
+</resources>
