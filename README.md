@@ -1,5 +1,5 @@
 A demonstration project. 
-So, it's over engineered a bit.
+So, it's over-engineered a bit.
 
 Shows:
 * Clean Architecture approach
